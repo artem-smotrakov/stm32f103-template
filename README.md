@@ -5,7 +5,7 @@ The project requires the following:
 - [STLINK software](https://github.com/texane/stlink) (uploading code to stm32f103)
 - [STM32 Standard Peripheral Libraries](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries/stsw-stm32054.html)
 
-For more information please see [A template project for STM32 on Linux](https://blog.gypsyengineer.com/fun/a-template-project-for-stm32f103-on-linux.html).
+For more information please see [A template project for STM32 on Linux](https://blog.gypsyengineer.com/en/diy-electronics/a-template-project-for-stm32f103-on-linux.html).
 
 ## Usage
 `arm-none-eabi-gcc` and `arm-none-eabi-objcopy` should be in `${PATH}`. `${STD_PERIPH_LIBS}` contains a path to STM32 Standard Peripheral Libraries. `${ST_FLASH}` contains a path to `st-flash`.
